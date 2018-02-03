@@ -84,6 +84,11 @@ div img {
     
 }
 
+.panel-cust {
+    padding-right: 30px;
+    padding-top: 30px;
+}
+
 .footer-copyright {
     background: #666666;
     height: 100px;
@@ -111,6 +116,12 @@ div img {
     font-style: bold;
     color: white;
 }
+
+
+.btn {
+    background-color: #4aaaa5;
+}
+
 
 
 
